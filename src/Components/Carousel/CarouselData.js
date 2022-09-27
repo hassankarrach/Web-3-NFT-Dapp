@@ -1,0 +1,14 @@
+export {default as img1 } from '../../Media/Carousel/1.jpg';
+export {default as img2 } from '../../Media/Carousel/2.jpg';
+export {default as img3 } from '../../Media/Carousel/3.jpg';
+export {default as img4 } from '../../Media/Carousel/4.jpg';
+export {default as img5 } from '../../Media/Carousel/5.jpg';
+export {default as img6 } from '../../Media/Carousel/6.jpg';
+export {default as img7 } from '../../Media/Carousel/7.jpg';
+export {default as img8 } from '../../Media/Carousel/8.jpg';
+export {default as img9 } from '../../Media/Carousel/9.jpg';
+export {default as img10 } from '../../Media/Carousel/10.jpg';
+export {default as img11 } from '../../Media/Carousel/11.jpg';
+export {default as img12 } from '../../Media/Carousel/12.jpg';
+export {default as img13 } from '../../Media/Carousel/13.jpg';
+export {default as img14 } from '../../Media/Carousel/14.jpg';
